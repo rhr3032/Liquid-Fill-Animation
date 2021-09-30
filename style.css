@@ -1,0 +1,7 @@
+*{margin: 0;padding: 0;}
+.main{display: flex;justify-content: center;align-items: center;width: 100%;height: 100vh;}
+.box{width: 180px;height: 180px;background: royalblue;border: 6px solid royalblue ;position: relative;border-radius: 50%;overflow: hidden;}
+.box::before{content: "Raisul Rafi";font-family: Arial, Helvetica, sans-serif;font-size: 1rem;color: white;display: flex;justify-content: center;align-items: center;position: absolute;width: 100%;height: 100%;}
+.box::after{content: "";width: 100%;height: 100%;position: absolute;bottom: 0;left: 0;background: white;transform: scale(1.6);border-radius: 30%;animation: anim 15s ease-in-out infinite;}
+/***** KeyFrames *****/
+@keyframes anim{0%{transform: translateY(0) rotate(0) scale(1.6);}50%{transform: translateY(-150%) rotate(500DEG) scale(1.6);}100%{transform: translateY(0) rotate(0) scale(1.6);}}
