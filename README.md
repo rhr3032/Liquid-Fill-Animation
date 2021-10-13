@@ -1,10 +1,37 @@
-	GitHub:rhr3032
+Hi, I'm Raisul Rafi. A full stacks Web Developer in Bd.
+
+Also expert in,
+
+    Wordpress
 	
-	Facebook:rhr.raisulrafi
+	UI/UX Design
 	
-	Instagram:rhr_raisulrafi
+	Motion Graphics and VFX
 	
-	Twitter:rhr_raisulrafi
+	Cartoon & 3D Animation
+	
+	Search Engine Optimization (SEO) 
 
 
-	Copyright 2021 Raisul Hasan Rafi | All Rights Reserved.
+
+
+
+Follow Me on Social Media:
+
+	Facebook: rhr.raisulrafi
+	
+	Instagram: rhr_raisulrafi
+	
+	Twitter: rhr_raisulrafi
+	
+	Github: rhr3032
+	
+	Mail: rhr3032@yahoo.com
+
+	Visit Website: bit.ly/3iPf8iR
+
+
+
+Copyright 2021 Raisul Hasan Rafi | All Rights Reserved.
+
+
